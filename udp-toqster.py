@@ -47,8 +47,7 @@ def run(ip_run, port_run, times_run, threads_run):
 
 def main():
     print("")
-    print("\033[1;31m█░█░█▀▄░█▀█      ▀█▀ █▀█ █▀█ █▀ ▀█▀ █▀▀ █▀█\033[0m")
-    print("\033[1;31m█▄█░█▄█░█▀▀░ ▀▀▀ ░█░ █▄█ ▀▀█ ▄█ ░█░ ██▄ █▀▄\033[0m")
+    print("\033[1;31m LEMONNNNNNN ATACKEDDD VERSION 1.1.1 C2\033[0m")\033[0m")
     print("")
     print("\033[1;31m[Warning]\033[1;37m This tool is for educational purposes \nonly, I am not responsible for any damages you \nhave caused or may cause, use it at your own risk!")
     print("")
